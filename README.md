@@ -3,7 +3,7 @@
 
 ## Installation
 
-### Sytlus
+### Stylus
 [Click here](https://bulldog3321.github.io/Bulldogs-Nyaa/Bulldog'sNyaa.user.css)
 
 ## Images
