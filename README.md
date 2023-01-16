@@ -1,5 +1,5 @@
 # Bulldogs-Nyaa
-(wip) A simple rounded theme for nyaa.si
+A simple rounded theme
 
 ## Installation
 
