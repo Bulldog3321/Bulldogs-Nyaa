@@ -220,7 +220,10 @@
   }
   .table-responsive a,
   .table-responsive a:hover {
-    color: rgb(20, 120, 200) !important;
+    color: rgb(20, 120, 200);
+  }
+  tbody tr td a:visited {
+    color: rgb(15, 90, 150) !important;
   }
   
   /* ----------------------------------------TORRENT VIEW---------------------------------------- */
