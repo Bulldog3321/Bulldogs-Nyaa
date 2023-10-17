@@ -1,11 +1,11 @@
 /* ==UserStyle==
 @name           Bulldog's Nyaa
-@description    A simple rounded theme
+@description    A simple rounded dark blue theme for Nyaa.si
 @author         Bulldög#0533
 @version        1.0
 @namespace      github.com/Bulldog3321
 @homepageURL    https://github.com/Bulldog3321/Bulldogs-Nyaa
-@updateURL      https://bulldog3321.github.io/Bulldogs-Nyaa/Bulldog'sNyaa.user.css
+@updateURL      https://bulldog3321.github.io/Bulldogs-Nyaa/Bulldogs-Nyaa.user.css
 @preprocessor   stylus
 ==/UserStyle== */
 
@@ -13,12 +13,12 @@
 
   :root {
     --background: rgba(0, 0, 0, 0.6);
-    --hover: rgba(79, 84, 92, 0.5);
-    --radius: 10px;
-    --transition: background-color 0.25s;
     --primary: rgb(24, 28, 37);
     --secondary: rgb(20, 23, 31);
     --tertiary: rgb(12, 14, 19);
+    --hover: rgba(79, 84, 92, 0.5);
+    --radius: 10px;
+    --transition: background-color 0.25s;
   }
 
   /* background */
